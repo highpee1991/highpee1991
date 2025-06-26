@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/highpee1991" target='_blank'>
+  <a href="https://github.com/highpee1991">
     <img src="https://komarev.com/ghpvc/?username=highpee1991&style=flat-square&color=blue" alt="Profile views"/>
   </a>
   &nbsp;
