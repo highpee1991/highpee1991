@@ -7,13 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/highpee1991">
+  <a href="https://github.com/highpee1991" target='_blank'>
     <img src="https://komarev.com/ghpvc/?username=highpee1991&style=flat-square&color=blue" alt="Profile views"/>
   </a>
   &nbsp;
-  <a href="mailto:ipadeola.it@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square&logo=gmail" />
-  </a>
+ <a href="mailto:ipadeola.it@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square&logo=gmail" />
+</a>
+
   <a href="https://www.linkedin.com/in/ipadeola-taiwo">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin" />
   </a>
@@ -59,7 +60,6 @@
 | **Full-stack E-commerce Food Store** | React · Express · Supabase | [Live Site](https://www.aafoodstore.com/home) | Manage products and track orders with role-based authentication for admins and customers. |
 | **Relitorin International Website (Frontend)** | React · Styled Components | [Live (Vercel)](https://relitorin-web.vercel.app/) | In-progress frontend project for an engineering firm vendor to Chevron, Texas State Gov, and Seplat. |
 
-> ℹ️ *Pin these repos in GitHub → Customize your pins → drag to reorder.*
 
 ---
 
